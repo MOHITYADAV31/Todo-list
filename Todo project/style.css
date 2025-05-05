@@ -1,0 +1,32 @@
+*{
+    margin:auto;
+    
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    margin-top:270px;
+    background-color:rgb(76, 69, 66) ;
+    
+}
+
+.input-container{
+    
+}
+
+#todo-input{
+    background-color:darkslategray;
+    margin-top: 20px;
+    margin-top: 20px;
+}
+
+#add-task-btn{
+    background-color: crimson;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: #3a3636;
+}
